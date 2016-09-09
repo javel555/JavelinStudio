@@ -4,6 +4,7 @@
   "description": "",
   "main": "app.js",
   "dependencies": {
+    "bootstrap": "^3.3.7",
     "ejs": "^2.5.2",
     "express": "^4.14.0"
   },
@@ -16,7 +17,9 @@
     "url": "git+https://github.com/javel555/JavelinStudio.git"
   },
   "keywords": [
-    "node", "express", "static"
+    "node",
+    "express",
+    "static"
   ],
   "author": "javel",
   "license": "ISC",
