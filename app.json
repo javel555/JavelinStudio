@@ -1,0 +1,8 @@
+{
+  "name": "JavelinStudio",
+  "description": "todo",
+  "repository": "https://github.com/javel555/JavelinStudio.git",
+  "logo": "todo",
+  "keywords": ["node", "express", "static"],
+  "image": "heroku/nodejs"
+}
