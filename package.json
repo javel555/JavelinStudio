@@ -16,7 +16,7 @@
     "url": "git+https://github.com/javel555/JavelinStudio.git"
   },
   "keywords": [
-    "heroku"
+    "node", "express", "static"
   ],
   "author": "javel",
   "license": "ISC",
